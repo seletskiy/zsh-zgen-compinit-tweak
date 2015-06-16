@@ -3,7 +3,7 @@ zsh-zgen-compinit-tweak
 
 Can offer significant speedup while using oh-my-zsh/prezto with zgen.
 
-Should be loaded before any other pluguin.
+Should be loaded before any other plugin.
 
 Usage
 =====
